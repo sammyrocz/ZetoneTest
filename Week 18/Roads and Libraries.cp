@@ -1,5 +1,3 @@
-// solving road and libvary
-
 #include <bits/stdc++.h>
 using namespace std;
 
